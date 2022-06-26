@@ -1,4 +1,5 @@
-<h2> #Hello World 👋 </h2>
+## Hello World 👋
+
 <p>Me Chamo Lucas Cândido</p>
 
 <div>
@@ -25,7 +26,8 @@
 </div>
 <!--Site Usado para obter os icons https://devicon.dev -->
 
-##
+
+<hr>
 <div>
     <a href="https://www.linkedin.com/in/lucasbehrooz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/lucasbehrooz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,6 +37,5 @@
 
 
 <!---
-rfs-lucascandido/rfs-lucascandido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+rfs-lucascandido/rfs-lucascandido is a ✨ special ✨ repository because its `README.md`
 --->
