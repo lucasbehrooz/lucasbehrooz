@@ -19,6 +19,10 @@
     <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
     <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+          
+          
           
           
           
