@@ -3,7 +3,7 @@
 <p>Me Chamo Lucas Cândido</p>
 
 <div>
-<a href="https://github.com/rfs-lucascandido">
+<a href="https://github.com/lucasbehrooz">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbehrooz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbehrooz&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -41,5 +41,5 @@
 
 
 <!---
-rfs-lucascandido/rfs-lucascandido is a ✨ special ✨ repository because its `README.md`
+lucasbehrooz/lucasbehrooz is a ✨ special ✨ repository because its `README.md`
 --->
