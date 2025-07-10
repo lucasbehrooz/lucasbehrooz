@@ -12,11 +12,11 @@
 
 ## 🚀 Sobre Mim
 
-💡 **DevOps Engineer** apaixonado por tecnologia, automação e otimização de processos. Especializado em **Cloud Computing**, **CI/CD**, **Infrastructure as Code (IaC)** e **observabilidade**.
+💡 **DevOps Engineer** apaixonado por tecnologia, automação e otimização de processos. Especializado em **Cloud Computing**, **CI/CD**, **Infrastructure as Code (IaC)**, **Kubernetes**, **GitOps** e **Site Reliability Engineering (SRE)**.
 
 🎯 **Foco atual:** Implementação de soluções escaláveis e automatização de infraestrutura em ambientes multi-cloud.
 
-🌱 **Sempre aprendendo:** Kubernetes avançado, GitOps, e práticas de Site Reliability Engineering (SRE).
+🌱 **Sempre aprendendo:** Kubernetes avançado, GitOps e práticas de Site Reliability Engineering (SRE).
 
 ---
 
