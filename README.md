@@ -77,7 +77,13 @@
 
 ## 🏆 Conquistas & Certificações
 
-- 🎯 **AWS Certified Solutions Architect** (em progresso)
+### 📜 **Certificações Obtidas**
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)**
+- 🔧 **Microsoft Azure Administrator (AZ-104)**
+- 🎯 **AWS Certified Cloud Practitioner**
+- 👨‍💻 **AWS Certified Developer Associate**
+
+### 🚀 **Experiência & Resultados**
 - 🚀 **+3 anos** de experiência em DevOps
 - ⚡ **50+ projetos** automatizados com sucesso
 - 🔧 **Redução de 70%** no tempo de deploy em projetos implementados
