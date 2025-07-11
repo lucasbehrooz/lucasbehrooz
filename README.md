@@ -79,6 +79,11 @@
 - 🎯 **AWS Certified Cloud Practitioner**
 - 👨‍💻 **AWS Certified Developer Associate**
 
+### 🎯 **Próximas Certificações**
+- 🏗️ **AWS Certified Solutions Architect Associate**
+- ⚓ **Certified Kubernetes Administrator (CKA)**
+- 🐧 **Linux Professional Institute Certification (LPIC-1)**
+
 ### 🚀 **Experiência & Resultados**
 - 🚀 **+3 anos** de experiência em DevOps
 - ⚡ **50+ projetos** automatizados com sucesso
