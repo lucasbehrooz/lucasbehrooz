@@ -27,10 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbehrooz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucasbehrooz&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
@@ -126,4 +122,3 @@
 ---
 
 ⭐ **Gostou do meu perfil? Deixe uma estrela nos meus repositórios!**
-
