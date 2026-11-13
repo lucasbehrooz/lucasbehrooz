@@ -51,18 +51,20 @@
 
 <div align="center">
   <a href="https://github.com/lucasbehrooz">
-    <img alt="GitHub Stats" src="https://streak-stats.demolab.com?user=lucasbehrooz&theme=tokyonight&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasbehrooz&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/lucasbehrooz">
-    <img alt="Most Used Languages" src="https://github-readme-stats-git-main-ysyp.vercel.app/api/top-langs/?username=lucasbehrooz&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/lucasbehrooz">
-    <img alt="GitHub Stats" src="https://github-readme-stats-git-main-ysyp.vercel.app/api?username=lucasbehrooz&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+### 📈 Estatísticas
+
+```
+Total de repositórios  │ 50+
+Linguagens principais  │ Python, Bash, C#, Node.js, Go
+Commits em 2026        │ 100+ (e contando!)
+Colaborações           │ Projetos open-source ativos
+```
+
+👉 **[Ver perfil completo no GitHub](https://github.com/lucasbehrooz)**
 
 ---
 
