@@ -186,12 +186,7 @@ Confira alguns dos meus projetos em destaque:
 ## 📊 Stats do Perfil
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasbehrooz&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  <br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbehrooz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbehrooz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=lucasbehrooz&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
