@@ -203,14 +203,14 @@ Estou sempre aberto a:
 
 ---
 
-<div align="center">
-  <h3>💭 "Infraestrutura excelente é invisível. Quando funciona, ninguém percebe. Quando quebra, todos reclamam."</h3>
-  <p><em>— Transformando complexidade em simplicidade através de automação e código</em></p>
-</div>
+### 💭 Filosofia
+
+> "Infraestrutura excelente é invisível. Quando funciona, ninguém percebe. Quando quebra, todos reclamam."
+
+**Transformando complexidade em simplicidade através de automação e código.**
 
 ---
 
-<div align="center">
-  <h4>⭐ Se você achou útil, considere deixar uma estrela nos meus repositórios!</h4>
-  <p><strong>Made with ❤️ by Lucas Cândido</strong></p>
-</div>
+⭐ **Se você achou útil, considere deixar uma estrela nos meus repositórios!**
+
+**Made with ❤️ by Lucas Cândido**
