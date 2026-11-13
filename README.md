@@ -51,15 +51,17 @@
 
 <div align="center">
   <a href="https://github.com/lucasbehrooz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbehrooz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/lucasbehrooz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbehrooz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+    <img alt="GitHub Stats" src="https://streak-stats.demolab.com?user=lucasbehrooz&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasbehrooz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <a href="https://github.com/lucasbehrooz">
+    <img alt="Most Used Languages" src="https://github-readme-stats-git-main-ysyp.vercel.app/api/top-langs/?username=lucasbehrooz&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lucasbehrooz">
+    <img alt="GitHub Stats" src="https://github-readme-stats-git-main-ysyp.vercel.app/api?username=lucasbehrooz&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
